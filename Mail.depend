@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1607346328 source:e:\c programs\mail\mail\login.c
+	<stdio.h>
+
+1607269222 source:e:\c programs\mail\mail\homepage.c
+	<stdio.h>
+	<windows.h>
+
+1607274865 source:e:\c programs\mail\mail\signup.c
+	<stdio.h>
+	<string.h>
+
+1607346361 source:e:\c programs\mail\mail\options.c
+	<stdio.h>
+
+1607359500 source:e:\c programs\mail\mail\read.c
+	<stdio.h>
+
+1607361431 source:e:\c programs\mail\mail\compose.c
+	<stdio.h>
+
